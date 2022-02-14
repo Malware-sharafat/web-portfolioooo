@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+h1{
+    font-size: 40px;     
+}
+.name{
+    color: rgb(241, 160, 10);
+  }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+
+}
+.top-banner{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+
+
+}
